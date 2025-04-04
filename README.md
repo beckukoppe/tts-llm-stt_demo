@@ -20,3 +20,9 @@ Exit:
 - `python3 ~/TTS/server/server.py --model_name tts_models/en/ljspeech/vits--neon`
 - start tts.py
 
+
+## Llama cpp server
+
+- `localhost:8080`/ `localhost:8081`
+- `ssh eowyn`
+
